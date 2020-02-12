@@ -69,7 +69,9 @@ A good starting point might be the open tickets at https://github.com/TEIC/TEI/i
 ### Define RDF 'inside' XML 
 
 * RDFa: http://rdfa.info/ 
-* ...
+* Borriello, Marta, Christian Dirschl, Axel Polleres, Phil Ritchie, Frank Salliau, Felix Sasaki, und Giannis Stoitsis. „From XML to RDF Step by Step: Approaches for Leveraging XML Workflows  with Linked Data“. In XML Prague 2016. Conference Proceedings, 121–38. Prague, 2016.
+* DuCharme, Bob, und John Cowan. „Make Your XML RDF-Friendly“. Xml.Com (blog), 30. Oktober 2002. https://www.xml.com/pub/a/2002/10/30/rdf-friendly.html.
+
 
 ### Transform XML to RDF
 
